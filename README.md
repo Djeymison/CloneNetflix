@@ -1,2 +1,2 @@
 # Clone-Netflix-
-Exercício onde será clonado a pagina inicial da Netflix
+Projeto de um clone da página inicial da Netflix com o tena Suits
