@@ -1,2 +1,2 @@
 # Clone-Netflix-
-Projeto de um clone da página inicial da Netflix com o tena Suits
+Projeto inicial de um clone da paginal inicial da plataforma Netflix com o tema Suits
